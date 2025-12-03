@@ -1,0 +1,5 @@
+{
+  "name": "ScholarLens AI",
+  "description": "An intelligent PWA for parsing, analyzing, and organizing academic papers using Gemini models. Features offline support, structured extraction, and deep analysis.",
+  "requestFramePermissions": []
+}
